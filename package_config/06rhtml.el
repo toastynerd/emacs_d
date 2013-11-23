@@ -1,0 +1,2 @@
+(require 'rhtml-mode)
+

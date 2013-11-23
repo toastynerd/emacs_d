@@ -1,0 +1,2 @@
+(require 'multiple-cursors)
+(global-multiple-cursors-mode 1)
