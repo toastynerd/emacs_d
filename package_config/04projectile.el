@@ -5,5 +5,4 @@
 (setq projectile-completion-system 'grizzl)
 
 ;; open project root when switching projects
-(setq projectile-switch-project-action 'projectile-dired)
-
+;; (setq projectile-switch-project-action 'projectile-dired)

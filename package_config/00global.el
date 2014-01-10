@@ -1,5 +1,6 @@
 (setq x-select-enable-clipboard t)
-(load-theme 'solarized-light t)
+(load-theme 'zenburn t)
+(setq make-backup-files nil)
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.

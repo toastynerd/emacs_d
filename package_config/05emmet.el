@@ -1,2 +1,2 @@
 (require 'emmet-mode)
-(add-hook 'rhtml-mode-hook 'emmet-mode) ;;enable emmet on rhtml
+;;to-do: add code to automatically start emmet on .erb or .html
