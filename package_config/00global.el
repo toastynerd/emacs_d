@@ -1,5 +1,6 @@
 (setq x-select-enable-clipboard t)
-(load-theme 'zenburn t)
+;;setting color scheme in terminal from now on
+;;(load-theme 'zenburn t)
 (setq make-backup-files nil)
 
 (custom-set-variables
