@@ -19,6 +19,8 @@
 (load "12yasnippet.el")
 (load "13clojure.el")
 (load "14org-mode.el")
+(load "15js-mode.el")
+
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

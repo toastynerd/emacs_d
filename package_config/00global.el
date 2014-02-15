@@ -10,6 +10,7 @@
 	  '(lambda ()
 	     (setq-default indent-tabs-mode nil)
 	     (setq c-basic-indent 2)
+       (setq c-basic-offset 2)
 	     (setq tab-width 2)))
 
 (custom-set-variables

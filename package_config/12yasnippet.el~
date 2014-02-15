@@ -1,2 +1,0 @@
-(require 'yasnippet)
-(yes-global-mode 1)
