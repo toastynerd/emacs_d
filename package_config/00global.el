@@ -2,6 +2,15 @@
 ;;setting color scheme in terminal from now on
 ;;(load-theme 'zenburn t)
 (setq make-backup-files nil)
+(auto-save-mode)
+
+
+;;set tabs to two spaces no matter the major mode
+(add-hook 'after-change-major-mode-hook
+	  '(lambda ()
+	     (setq-default indent-tabs-mode nil)
+	     (setq c-basic-indent 2)
+	     (setq tab-width 2)))
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.

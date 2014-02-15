@@ -1,6 +1,7 @@
 (source melpa)
 
 (depends-on "auto-complete")
+(depends-on "blank-mode")
 (depends-on "cask")
 (depends-on "clojure-mode")
 (depends-on "color-theme-solarized")
@@ -12,6 +13,7 @@
 (depends-on "f")
 (depends-on "grizzl")
 (depends-on "highlight-indentation")
+(depends-on "htmlize")
 (depends-on "linum-relative")
 (depends-on "multiple-cursors")
 (depends-on "pallet")
