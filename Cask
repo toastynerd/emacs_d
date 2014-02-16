@@ -14,6 +14,7 @@
 (depends-on "grizzl")
 (depends-on "highlight-indentation")
 (depends-on "htmlize")
+(depends-on "jade-mode")
 (depends-on "linum-relative")
 (depends-on "multiple-cursors")
 (depends-on "pallet")
