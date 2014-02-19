@@ -2,8 +2,7 @@
 ;;setting color scheme in terminal from now on
 ;;(load-theme 'zenburn t)
 (setq make-backup-files nil)
-(auto-save-mode)
-
+(setq auto-save-default nil)
 
 ;;set tabs to two spaces no matter the major mode
 (add-hook 'after-change-major-mode-hook

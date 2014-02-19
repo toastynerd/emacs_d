@@ -1,4 +1,6 @@
-((("auto-mode-" .
+((("auto-save-default" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("auto-mode-" .
    [0 0 0 0 0 0 0 0 0 1])
   ("res" .
    [1 0 0])
@@ -227,7 +229,7 @@
   ("flyspell-mode" .
    [0 0 0 0 0 1 0 0 0 0 0 0 0])
   ("nil" .
-   [2 0 0])
+   [3 0 0])
   ("flyspell" .
    [1 0 0 0 0 0 0 1])
   ("powerline-default-theme" .
@@ -273,7 +275,7 @@
   ("grizzl" .
    [1 0 0 0 0 0])
   ("setq" .
-   [7 0 0 1])
+   [8 0 0 1])
   ("proced" .
    [0 0 0 0 0 1])
   ("sp-local-pair" .
