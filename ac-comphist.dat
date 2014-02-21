@@ -1,400 +1,456 @@
-((("auto-save-default" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("auto-mode-" .
-   [0 0 0 0 0 0 0 0 0 1])
-  ("res" .
-   [1 0 0])
-  ("exphbs" .
-   [1 0 0 0 0 0])
-  ("app" .
-   [4 0 0])
-  ("express" .
-   [1 0 0 0 0 0 0])
-  ("html-mode-hook" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("eventWindowLoaded" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("index" .
-   [5 0 0 0 0])
-  ("change" .
-   [0 0 0 0 0 1])
-  ("through" .
-   [1 0 0 1 0 0 0])
-  ("stunts" .
-   [1 0 0 0 0 0])
-  ("character_stunts" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("character" .
-   [1 0 0 0 0 0 0 0 1])
-  ("has_many" .
-   [0 0 1 3 1 0 0 0])
-  ("include_recipe" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
-  ("package" .
-   [2 0 0 0 0 0 0])
-  ("postgresql" .
-   [1 0 0 0 0 0 0 0 0 0])
-  ("wget" .
-   [1 0 0 0])
-  ("tmux" .
-   [1 0 0 0])
-  ("emacs" .
-   [1 0 0 0 0])
-  ("homebrew" .
-   [1 0 0 0 0 0 0 0])
-  ("Redistribute" .
-   [1 0 0 0 0 0 0 0 0 0 0 0])
-  ("Do" .
-   [1 0])
-  ("reserved" .
-   [1 0 0 0 0 0 0 0])
-  ("rights" .
-   [1 0 0 0 0 0])
-  ("Morgan" .
-   [1 0 0 0 0 0])
-  ("Recipe" .
-   [1 0 0 0 0 0])
-  ("packages" .
-   [5 0 0 0 0 0 0 0])
-  ("toasty" .
-   [1 0 0 0 0 0])
-  ("Name" .
-   [1 0 0 0])
-  ("Cookbook" .
-   [1 0 0 0 0 0 0 0])
-  ("joins" .
-   [1 0 0 0 0])
-  ("value" .
-   [2 0 0 0 0])
-  ("with_votes" .
-   [2 0 0 0 0 0 0 1 0 0])
-  ("self" .
-   [3 0 0 0])
-  ("perform_async" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("save_vote" .
-   [1 0 0 0 0 0 0 0 0])
-  ("votes" .
-   [3 0 0 0 0])
-  ("save" .
-   [1 0 0 0])
-  ("vote" .
-   [3 0 0 0])
-  ("rating" .
-   [1 0 0 0 0 0])
-  ("start" .
-   [1 0 0 0 0])
-  ("rb" .
-   [1 0])
-  ("dir_path" .
-   [0 0 0 0 0 0 1 0])
-  ("__FILE__" .
-   [0 0 0 0 0 0 1 0])
-  ("expand_path" .
-   [0 0 0 0 0 0 1 0 0 0 0])
-  ("File" .
-   [1 0 0 0])
-  ("valid?" .
-   [1 0 0 0 0 0])
-  ("profile" .
-   [1 0 0 0 0 0 0])
-  ("search" .
-   [1 0 0 0 0 0])
-  ("present?" .
-   [2 0 0 0 0 0 0 0])
-  ("record" .
-   [1 0 0 0 0 0])
-  ("long_lat" .
-   [1 0 0 0 0 0 0 0])
-  ("TwitterStreamLocation" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("new" .
-   [1 0 0])
-  ("latitude" .
-   [0 0 0 1 1 0 0 0])
-  ("longitude" .
-   [1 0 0 0 1 1 0 0 0])
-  ("geo" .
-   [12 0 0])
-  ("match_search?" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("location_query" .
-   [2 0 0 0 0 0 0 0 0 1 1 0 0 2])
-  ("type" .
-   [3 0 0 0])
-  ("where" .
-   [5 0 0 0 0])
-  ("Geolocation" .
-   [2 0 0 0 0 0 0 0 0 0 0])
-  ("geolocations" .
-   [2 0 0 0 0 0 0 0 0 0 0 0])
-  ("client" .
-   [1 0 0 0 0 0])
-  ("RemoteTwitterStream" .
-   [1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("Remotus" .
-   [3 0 0 0 1 0 0])
-  ("then" .
-   [1 0 0 0])
-  ("false" .
-   [3 0 0 0 0])
-  ("true" .
-   [2 0 0 0])
-  ("word" .
-   [1 0 0 0])
-  ("test" .
-   [1 0 0 0])
-  ("include?" .
-   [2 0 0 0 0 0 0 0])
-  ("result" .
-   [6 0 0 0 0 0])
-  ("downcase" .
-   [1 0 0 0 0 0 0 0])
-  ("queries_words" .
-   [3 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("initialize" .
-   [0 0 0 0 1 0 0 0 0 0])
-  ("text" .
-   [8 0 0 0])
-  ("query" .
-   [7 0 0 0 1])
-  ("map" .
-   [4 0 0])
-  ("queries" .
-   [2 0 0 0 0 0 0])
-  ("q" .
-   [3])
-  ("each" .
-   [6 0 0 0])
-  ("do" .
-   [11 0])
-  ("status_id" .
-   [1 0 0 0 0 0 0 0 0])
-  ("find" .
-   [1 0 0 0])
-  ("Status" .
-   [2 0 0 0 0 0])
-  ("status" .
-   [11 0 0 0 0 0])
-  ("perform" .
-   [0 0 0 1 0 0 0])
-  ("def" .
-   [6 0 0])
-  ("id" .
-   [3 0])
-  ("twitter_stream" .
-   [2 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("s" .
-   [1])
-  ("queue" .
-   [2 0 0 0 0])
-  ("sidekiq_options" .
-   [1 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
-  ("end" .
-   [10 0 0])
-  ("Worker" .
-   [0 0 2 0 0 0])
-  ("Sidekiq" .
-   [0 0 0 1 1 0 0])
-  ("include" .
-   [2 0 0 0 0 0 1])
-  ("class" .
-   [2 0 0 0 0])
-  ("active" .
-   [3 0 0 0 0 0])
-  ("class=" .
-   [3 0 0 0 0 0])
-  ("projectile-enable-caching" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("projectile-require-project-root" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("term" .
-   [1 0 0 0])
-  ("else" .
-   [3 0 0 0])
-  ("if" .
-   [11 0])
-  ("clojure-mode" .
+((("li" .
+   [2 0])
+  ("|question_set|" .
+   [1 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("question_set" .
    [0 0 0 0 0 0 0 0 0 0 0 1])
-  ("treat" .
-   [1 0 0 0 0])
-  ("ac-flyspell-workaround" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("flyspell-prog-mode" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("web-mode-hook" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("web-mode" .
-   [1 0 0 0 0 0 0 1])
-  ("flyspell-mode" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("nil" .
-   [3 0 0])
-  ("flyspell" .
-   [1 0 0 0 0 0 0 1])
-  ("powerline-default-theme" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("global-linum-mode" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("linum" .
-   [1 0 0 0 0])
-  ("inhibit-startup-screen" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("custom-set-variables" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("initial-buffer-choice" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
-  ("get-buffer-create" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("get" .
-   [1 0 0])
-  ("switch-to-buffer" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("robe-mode" .
-   [0 0 0 0 0 0 0 0 1])
-  ("enh-ruby-mode-hook" .
-   [0 0 0 1 1 0 0 0 0 0 0 0 0 2 0 1 0 0])
-  ("projectile" .
-   [0 0 0 0 0 0 1 0 0 0])
-  ("rhtml-erb" .
-   [0 0 0 0 0 0 0 0 1])
-  ("rinari-launch" .
-   [1 0 0 0 0 0 1 0 0 0 0 0 0])
-  ("lambda" .
-   [5 0 0 0 0 0])
-  ("rhtml-mode-hook" .
-   [3 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("projectile-switch-project" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("set" .
-   [3 0 0])
-  ("kbd" .
-   [4 0 1])
-  ("global-set-key" .
-   [1 0 0 0 0 0 0 0 0 1 1 0 0 2])
-  ("grizzl" .
-   [1 0 0 0 0 0])
-  ("setq" .
-   [8 0 0 1])
-  ("proced" .
-   [0 0 0 0 0 1])
-  ("sp-local-pair" .
-   [0 0 0 0 0 1 1 0 0 0 0 0 0])
-  ("show-smartparens-global-mode" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("smartparens-global-mode" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("smartparens-ruby" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
-  ("smartparens-config" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("require" .
-   [13 0 0 5 1 0 0])
-  ("emmet-mode" .
-   [3 0 0 0 0 0 0 0 0 2])
-  ("add-hook" .
-   [4 0 0 0 0 2 0 2])
-  ("ruby" .
-   [2 0 0 0])
-  ("in" .
-   [1 0])
-  ("add-to-list" .
-   [2 0 0 0 0 0 0 0 1 1 1])
-  ("load-theme" .
-   [1 0 0 0 0 0 0 0 1 0])
-  ("web-mode-pkg" .
-   [0 0 0 0 0 0 0 0 0 1 0 0])
-  ("auto-mode-alist" .
-   [3 0 0 0 0 0 0 0 0 0 0 1 0 0 1])
-  ("cl" .
-   [1 0])
-  ("powerline" .
-   [1 0 0 0 0 0 0 0 0])
-  ("add-minor-mode" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
-  ("linum-mode" .
-   [2 0 0 0 0 0 0 0 0 0])
-  ("mc/mark-next-like-this" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("mc/mark-all-like-this" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("mc/mark-previous-like-this" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("projectile-index-directory" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("daemon" .
-   [1 0 0 0 0 2])
-  ("Rails" .
-   [2 0 0 0 0])
-  ("logger" .
-   [1 0 0 0 0 0])
-  ("info" .
-   [1 0 0 0])
-  ("gem" .
-   [2 0 0])
-  ("remotus" .
-   [2 0 0 0 0 0 0])
-  ("group" .
-   [2 0 0 0 0])
-  (":development" .
-   [0 0 0 0 0 1 0 0 0 0 0 0])
-  (":test" .
-   [1 0 0 0 0])
-  ("characters" .
-   [0 0 0 0 0 0 0 0 0 2])
-  ("list" .
-   [1 0 0 0])
-  ("var" .
-   [11 0 0])
-  ("process" .
-   [2 0 0 0 0 0 0])
-  ("argv" .
-   [2 0 0 0])
-  ("file" .
-   [1 0 0 0])
-  ("buf" .
-   [2 0 0])
-  ("str" .
-   [1 0 0])
-  ("console" .
-   [1 1 0 0 0 0 0])
-  ("log" .
-   [2 0 0])
-  ("insert" .
-   [3 0 0 0 0 0])
-  ("before_save" .
+  ("QuestionSet" .
    [1 0 0 0 0 0 0 0 0 0 0])
-  ("javascript_include_tag" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("flot" .
+  ("user_id" .
+   [2 0 0 0 0 0 0])
+  ("i" .
+   [1])
+  ("user" .
+   [3 0 0 0])
+  ("or" .
+   [1 0])
+  ("null" .
    [1 0 0 0])
-  ("div" .
-   [1 0 0])
-  ("width" .
+  ("question_sets" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("on" .
+   [1 0])
+  ("join" .
+   [1 0 0 0])
+  ("outer" .
    [1 0 0 0 0])
-  ("height" .
+  ("left" .
+   [1 0 0 0])
+  ("user_question_sets" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 3])
+  ("user_question_set" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1])
+  ("movieSchema" .
+   [0 0 0 0 0 0 0 0 1 0 0])
+  ("String" .
    [1 0 0 0 0 0])
-  ("400px" .
+  ("function" .
+   [1 0 0 0 0 0 0 0])
+  ("error" .
+   [1 0 0 0 0])
+  ("mongoose" .
+   [7 0 0 0 0 0 0 0])
+  ("mongodb" .
+   [1 0 0 0 0 0 0])
+  ("daily_stats" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("resources" .
+   [1 0 0 0 0 0 0 0 0])
+  ("data" .
+   [1 0 0 0])
+  ("chart" .
    [1 0 0 0 0])
   ("script" .
    [1 0 0 0 0 0])
-  ("chart" .
+  ("400px" .
    [1 0 0 0 0])
-  ("data" .
-   [1 0 0 0])
-  ("resources" .
-   [1 0 0 0 0 0 0 0 0])
-  ("daily_stats" .
-   [1 0 0 0 0 0 0 0 0 0 0])
-  ("mongodb" .
-   [1 0 0 0 0 0 0])
-  ("mongoose" .
-   [7 0 0 0 0 0 0 0])
-  ("error" .
-   [1 0 0 0 0])
-  ("function" .
-   [1 0 0 0 0 0 0 0])
-  ("String" .
+  ("height" .
    [1 0 0 0 0 0])
-  ("movieSchema" .
-   [0 0 0 0 0 0 0 0 1 0 0])))
+  ("width" .
+   [1 0 0 0 0])
+  ("div" .
+   [2 0 0])
+  ("flot" .
+   [1 0 0 0])
+  ("javascript_include_tag" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("before_save" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("insert" .
+   [3 0 0 0 0 0])
+  ("log" .
+   [2 0 0])
+  ("console" .
+   [1 1 0 0 0 0 0])
+  ("str" .
+   [1 0 0])
+  ("buf" .
+   [2 0 0])
+  ("file" .
+   [1 0 0 0])
+  ("argv" .
+   [2 0 0 0])
+  ("process" .
+   [2 0 0 0 0 0 0])
+  ("var" .
+   [11 0 0])
+  ("list" .
+   [1 0 0 0])
+  ("characters" .
+   [0 0 0 0 0 0 0 0 0 2])
+  (":test" .
+   [1 0 0 0 0])
+  (":development" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("group" .
+   [2 0 0 0 0])
+  ("remotus" .
+   [2 0 0 0 0 0 0])
+  ("gem" .
+   [2 0 0])
+  ("info" .
+   [1 0 0 0])
+  ("logger" .
+   [1 0 0 0 0 0])
+  ("Rails" .
+   [2 0 0 0 0])
+  ("daemon" .
+   [1 0 0 0 0 2])
+  ("projectile-index-directory" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("mc/mark-previous-like-this" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("mc/mark-all-like-this" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("mc/mark-next-like-this" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("linum-mode" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("add-minor-mode" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("powerline" .
+   [1 0 0 0 0 0 0 0 0])
+  ("cl" .
+   [1 0])
+  ("auto-mode-alist" .
+   [3 0 0 0 0 0 0 0 0 0 0 1 0 0 1])
+  ("web-mode-pkg" .
+   [0 0 0 0 0 0 0 0 0 1 0 0])
+  ("load-theme" .
+   [1 0 0 0 0 0 0 0 1 0])
+  ("add-to-list" .
+   [2 0 0 0 0 0 0 0 1 1 1])
+  ("in" .
+   [1 0])
+  ("ruby" .
+   [2 0 0 0])
+  ("add-hook" .
+   [4 0 0 0 0 2 0 2])
+  ("emmet-mode" .
+   [3 0 0 0 0 0 0 0 0 2])
+  ("require" .
+   [13 0 0 5 1 0 0])
+  ("smartparens-config" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("smartparens-ruby" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("smartparens-global-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("show-smartparens-global-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("sp-local-pair" .
+   [0 0 0 0 0 1 1 0 0 0 0 0 0])
+  ("proced" .
+   [0 0 0 0 0 1])
+  ("setq" .
+   [8 0 0 1])
+  ("grizzl" .
+   [1 0 0 0 0 0])
+  ("global-set-key" .
+   [1 0 0 0 0 0 0 0 0 1 1 0 0 2])
+  ("kbd" .
+   [4 0 1])
+  ("set" .
+   [3 0 0])
+  ("projectile-switch-project" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("rhtml-mode-hook" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("lambda" .
+   [5 0 0 0 0 0])
+  ("rinari-launch" .
+   [1 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("rhtml-erb" .
+   [0 0 0 0 0 0 0 0 1])
+  ("projectile" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("enh-ruby-mode-hook" .
+   [0 0 0 1 1 0 0 0 0 0 0 0 0 2 0 1 0 0])
+  ("robe-mode" .
+   [0 0 0 0 0 0 0 0 1])
+  ("switch-to-buffer" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("get" .
+   [1 0 0])
+  ("get-buffer-create" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("initial-buffer-choice" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("custom-set-variables" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("inhibit-startup-screen" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("linum" .
+   [1 0 0 0 0])
+  ("global-linum-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("powerline-default-theme" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("flyspell" .
+   [1 0 0 0 0 0 0 1])
+  ("nil" .
+   [3 0 0])
+  ("flyspell-mode" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("web-mode" .
+   [1 0 0 0 0 0 0 1])
+  ("web-mode-hook" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("flyspell-prog-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("ac-flyspell-workaround" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("treat" .
+   [1 0 0 0 0])
+  ("clojure-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("if" .
+   [11 0])
+  ("else" .
+   [3 0 0 0])
+  ("term" .
+   [1 0 0 0])
+  ("projectile-require-project-root" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("projectile-enable-caching" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("class=" .
+   [3 0 0 0 0 0])
+  ("active" .
+   [3 0 0 0 0 0])
+  ("class" .
+   [2 0 0 0 0])
+  ("include" .
+   [2 0 0 0 0 0 1])
+  ("Sidekiq" .
+   [0 0 0 1 1 0 0])
+  ("Worker" .
+   [0 0 2 0 0 0])
+  ("end" .
+   [12 0 0])
+  ("sidekiq_options" .
+   [1 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("queue" .
+   [2 0 0 0 0])
+  ("s" .
+   [1])
+  ("twitter_stream" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("id" .
+   [7 0])
+  ("def" .
+   [6 0 0])
+  ("perform" .
+   [0 0 0 1 0 0 0])
+  ("status" .
+   [11 0 0 0 0 0])
+  ("Status" .
+   [2 0 0 0 0 0])
+  ("find" .
+   [1 0 0 0])
+  ("status_id" .
+   [1 0 0 0 0 0 0 0 0])
+  ("do" .
+   [13 0])
+  ("each" .
+   [8 0 0 0])
+  ("q" .
+   [3])
+  ("queries" .
+   [2 0 0 0 0 0 0])
+  ("map" .
+   [4 0 0])
+  ("query" .
+   [7 0 0 0 1])
+  ("text" .
+   [8 0 0 0])
+  ("initialize" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("queries_words" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("downcase" .
+   [1 0 0 0 0 0 0 0])
+  ("result" .
+   [6 0 0 0 0 0])
+  ("include?" .
+   [2 0 0 0 0 0 0 0])
+  ("test" .
+   [1 0 0 0])
+  ("word" .
+   [1 0 0 0])
+  ("true" .
+   [2 0 0 0])
+  ("false" .
+   [3 0 0 0 0])
+  ("then" .
+   [1 0 0 0])
+  ("Remotus" .
+   [3 0 0 0 1 0 0])
+  ("RemoteTwitterStream" .
+   [1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("client" .
+   [1 0 0 0 0 0])
+  ("geolocations" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  ("Geolocation" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("where" .
+   [7 0 0 0 0])
+  ("type" .
+   [3 0 0 0])
+  ("location_query" .
+   [2 0 0 0 0 0 0 0 0 1 1 0 0 2])
+  ("match_search?" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("geo" .
+   [12 0 0])
+  ("longitude" .
+   [1 0 0 0 1 1 0 0 0])
+  ("latitude" .
+   [0 0 0 1 1 0 0 0])
+  ("new" .
+   [1 0 0])
+  ("TwitterStreamLocation" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("long_lat" .
+   [1 0 0 0 0 0 0 0])
+  ("record" .
+   [1 0 0 0 0 0])
+  ("present?" .
+   [2 0 0 0 0 0 0 0])
+  ("search" .
+   [1 0 0 0 0 0])
+  ("profile" .
+   [1 0 0 0 0 0 0])
+  ("valid?" .
+   [1 0 0 0 0 0])
+  ("File" .
+   [1 0 0 0])
+  ("expand_path" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("__FILE__" .
+   [0 0 0 0 0 0 1 0])
+  ("dir_path" .
+   [0 0 0 0 0 0 1 0])
+  ("rb" .
+   [1 0])
+  ("start" .
+   [1 0 0 0 0])
+  ("rating" .
+   [1 0 0 0 0 0])
+  ("vote" .
+   [3 0 0 0])
+  ("save" .
+   [1 0 0 0])
+  ("votes" .
+   [3 0 0 0 0])
+  ("save_vote" .
+   [1 0 0 0 0 0 0 0 0])
+  ("perform_async" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("self" .
+   [3 0 0 0])
+  ("with_votes" .
+   [2 0 0 0 0 0 0 1 0 0])
+  ("value" .
+   [2 0 0 0 0])
+  ("joins" .
+   [2 0 0 0 0])
+  ("Cookbook" .
+   [1 0 0 0 0 0 0 0])
+  ("Name" .
+   [1 0 0 0])
+  ("toasty" .
+   [1 0 0 0 0 0])
+  ("packages" .
+   [5 0 0 0 0 0 0 0])
+  ("Recipe" .
+   [1 0 0 0 0 0])
+  ("Morgan" .
+   [1 0 0 0 0 0])
+  ("rights" .
+   [1 0 0 0 0 0])
+  ("reserved" .
+   [1 0 0 0 0 0 0 0])
+  ("Do" .
+   [1 0])
+  ("Redistribute" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("homebrew" .
+   [1 0 0 0 0 0 0 0])
+  ("emacs" .
+   [1 0 0 0 0])
+  ("tmux" .
+   [1 0 0 0])
+  ("wget" .
+   [1 0 0 0])
+  ("postgresql" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("package" .
+   [2 0 0 0 0 0 0])
+  ("include_recipe" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("has_many" .
+   [5 0 1 3 1 0 0 0])
+  ("character" .
+   [1 0 0 0 0 0 0 0 1])
+  ("character_stunts" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("stunts" .
+   [1 0 0 0 0 0])
+  ("through" .
+   [3 0 0 1 0 0 0])
+  ("change" .
+   [0 0 0 0 0 1])
+  ("index" .
+   [5 0 0 0 0])
+  ("eventWindowLoaded" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("html-mode-hook" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("express" .
+   [1 0 0 0 0 0 0])
+  ("app" .
+   [4 0 0])
+  ("exphbs" .
+   [1 0 0 0 0 0])
+  ("res" .
+   [1 0 0])
+  ("auto-mode-" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("auto-save-default" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("integer" .
+   [2 0 0 0 0 0 0])
+  ("tag_id" .
+   [2 0 0 0 0 0])
+  ("it" .
+   [1 0])
+  ("string" .
+   [1 0 0 0 0 0])
+  ("add_index" .
+   [2 0 0 0 0 0 0 0 0])
+  ("taggables" .
+   [4 0 0 0 0 0 0 0 0])
+  ("tagged_id" .
+   [1 0 0 0 0 0 0 0 0])
+  ("tagged_type" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("a" .
+   [2])
+  ("as" .
+   [1 0])
+  ("has" .
+   [1 0 0])
+  ("tags" .
+   [1 0 0 0])))

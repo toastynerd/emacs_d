@@ -12,6 +12,17 @@
        (setq c-basic-offset 2)
 	     (setq tab-width 2)))
 
+;; smart beginnning of line functionality
+(defun smart-beginning-of-line ()
+  "move point to beginning of line or first non whitespace character"
+  (interactive)
+  (let ((oldpos (point)))
+    (beginning-of-line)
+    (and (= oldpos (point))
+         (back-to-indentation))))
+(global-set-key [home] 'smart-beginning-of-line)
+(global-set-key "\C-a" 'smart-beginning-of-line)
+
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
