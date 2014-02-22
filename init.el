@@ -20,6 +20,7 @@
 (load "13clojure.el")
 (load "14org-mode.el")
 (load "15js-mode.el")
+(load "16shell-script-mode.el")
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
