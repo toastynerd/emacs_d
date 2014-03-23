@@ -8,6 +8,7 @@
 (depends-on "color-theme-solarized")
 (depends-on "dash")
 (depends-on "dash-at-point")
+(depends-on "dirtree")
 (depends-on "emmet-mode")
 (depends-on "enh-ruby-mode")
 (depends-on "epl")
