@@ -16,6 +16,7 @@
 (depends-on "flymake-jslint")
 (depends-on "grizzl")
 (depends-on "haml-mode")
+(depends-on "handlebars-mode")
 (depends-on "highlight-indentation")
 (depends-on "htmlize")
 (depends-on "jade-mode")

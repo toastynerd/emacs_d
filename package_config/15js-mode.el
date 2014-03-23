@@ -5,4 +5,4 @@
           (lambda () flymake-mode t))
 (add-hook 'javascript-mode-hook 
           (lambda () flymake-mode t))
-
+(add-to-list 'auto-mode-alist '("\\.hbs$" . handlebars-mode))

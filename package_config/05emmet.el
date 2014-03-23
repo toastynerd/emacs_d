@@ -3,4 +3,4 @@
 (add-hook 'html-mode-hook 'emmet-mode)
 (add-hook 'rhtml-mode-hook 'emmet-mode)
 (add-hook 'web-mode-hook 'emmet-mode)
-
+(add-hook 'handlebars-mode 'emmet-mode)
