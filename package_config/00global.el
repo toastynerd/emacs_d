@@ -23,6 +23,13 @@
 (global-set-key [home] 'smart-beginning-of-line)
 (global-set-key "\C-a" 'smart-beginning-of-line)
 
+(defun align-on-equals (beg end)
+  "Align a block of text on ="
+  (interactive "r")
+  (align-regexp beg end "\\(\\s-*\\)=" 1 1))
+
+(global-set-key "\C-c=" 'align-on-equals)
+
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
