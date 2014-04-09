@@ -22,6 +22,7 @@
 (load "15js-mode.el")
 (load "16shell-script-mode.el")
 (load "17dirtree.el")
+(load "18sass.el")
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
