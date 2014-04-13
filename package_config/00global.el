@@ -30,6 +30,19 @@
 
 (global-set-key "\C-c=" 'align-on-equals)
 
+;;copy and paste integration with osx
+(defun paste-from-osx ()
+  (shell-command-to-string "pbpaste"))
+
+(defun copy-to-osx(text &optional push) 
+  (let ((process-connection-type nil)) 
+    (let ((proc (start-process "pbcopy" "*Messages*" "pbcopy")))
+      (process-send-string proc text)
+      (process-send-eof proc))))
+
+(setq interprogram-cut-function 'copy-to-osx)
+(setq interprogram-paste-function 'paste-from-osx)
+
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
